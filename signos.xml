@@ -1,4 +1,4 @@
-?xml version="1.0"?>
+<?xml version="1.0"?>
 <signos>
     <signo>
         <dataInicio>21/03</dataInicio>
@@ -15,7 +15,9 @@
         <dataFim>20/05</dataFim>
         <signoNome>Touro</signoNome>
         <descricao>
-            
+            Touro ou Tauros (♉) é o segundo signo astrológico do zodíaco,
+            situado entre Áries e Gêmeos e associado à constelação de Taurus.
+            Seu símbolo é um touro.
         </descricao>
     </signo>
     <signo>
@@ -23,7 +25,10 @@
         <dataFim>20/06</dataFim>
         <signoNome>Gêmeos</signoNome>
         <descricao>
-            
+            Gêmeos (português brasileiro) ou Gémeos (português europeu) (♊),
+            ou ainda Gemini, é o terceiro signo astrológico do zodíaco, situado
+            entre Touro e Câncer/Caranguejo e associado à constelação de Gemini.
+            Seu símbolo são os irmãos gêmeos/gémeos.
         </descricao>
     </signo>
     <signo>
@@ -31,7 +36,10 @@
         <dataFim>22/07</dataFim>
         <signoNome>Câncer</signoNome>
         <descricao>
-            
+            Câncer (português brasileiro) ou Caranguejo (português europeu) (♋️)
+            é o quarto signo astrológico do zodíaco, situado entre
+            Gêmeos/Gémeos e Leão e associado à constelação de Cancer.
+            Seu símbolo é um caranguejo.
         </descricao>
     </signo>
     <signo>
@@ -39,7 +47,9 @@
         <dataFim>22/08</dataFim>
         <signoNome>Leão</signoNome>
         <descricao>
-            
+            Leão ou Leo (♌) é o quinto signo astrológico do zodíaco, situado
+            entre Câncer/Caranguejo e Virgem e associado à constelação de Leo.
+            Seu símbolo é um leão.
         </descricao>
     </signo>
     <signo>
@@ -47,7 +57,9 @@
         <dataFim>22/09</dataFim>
         <signoNome>Virgem</signoNome>
         <descricao>
-            
+            Virgem ou Virgo (♍) é o sexto signo astrológico do zodíaco,
+            situado entre Leão e Libra e associado à constelação de Virgo.
+            Seu símbolo é uma virgem.
         </descricao>
     </signo>
     <signo>
@@ -55,7 +67,10 @@
         <dataFim>22/10</dataFim>
         <signoNome>Libra</signoNome>
         <descricao>
-            
+            Libra (português brasileiro) ou Balança (português europeu) (♎) é o
+            sétimo signo astrológico do zodíaco, situado entre Virgem e
+            Escorpião e associado à constelação de Libra. Seu símbolo é uma
+            balança.
         </descricao>
     </signo>
     <signo>
@@ -63,7 +78,10 @@
         <dataFim>21/11</dataFim>
         <signoNome>Escorpião</signoNome>
         <descricao>
-            
+            Escorpião (♏) é o oitavo signo astrológico do Zodíaco, originário
+            da constelação de Scorpius. Ele mede 210 ° –240 ° de longitude
+            eclíptica. Sob o zodíaco tropical (mais usado na astrologia
+            ocidental).
         </descricao>
     </signo>
     <signo>
@@ -71,7 +89,9 @@
         <dataFim>21/12</dataFim>
         <signoNome>Sagitário</signoNome>
         <descricao>
-            
+            Sagitário (♐) é o nono signo astrológico do zodíaco, situado entre
+            Escorpião e Capricórnio e associado à constelação de Sagittarius.
+            Seu símbolo é o centauro.
         </descricao>
     </signo>
     <signo>
@@ -79,7 +99,9 @@
         <dataFim>19/01</dataFim>
         <signoNome>Capricórnio</signoNome>
         <descricao>
-            
+            Capricórnio (♑) é o décimo signo astrológico do zodíaco, situado
+            entre Sagitário e Aquário e associado à constelação de Capricornus.
+            Seu símbolo é uma cabra.
         </descricao>
     </signo>
     <signo>
@@ -87,7 +109,9 @@
         <dataFim>18/02</dataFim>
         <signoNome>Aquário</signoNome>
         <descricao>
-            
+            Aquário (♒) é o décimo primeiro signo astrológico do zodíaco,
+            situado entre Capricórnio e Peixes e associado à constelação de
+            Aquarius. Seu símbolo é o aguadeiro.
         </descricao>
     </signo>
     <signo>
@@ -95,20 +119,9 @@
         <dataFim>20/03</dataFim>
         <signoNome>Peixes</signoNome>
         <descricao>
-            
+            Peixes ou Piscis (♓️) é o décimo segundo, e último signo astrológico
+            do zodíaco, situado entre Aquário e Áries e associado à constelação
+            de Pisces.
         </descricao>
     </signo>
 </signos>
-
-1	Janeiro	tem 31 dias
-2	Fevereiro	tem 28 dias (29 dias nos anos bissextos)
-3	Março	tem 31 dias
-4	Abril	tem 30 dias
-5	Maio	tem 31 dias
-6	Junho	tem 30 dias
-7	Julho	tem 31 dias
-8	Agosto	tem 31 dias
-9	Setembro	tem 30 dias
-10	Outubro	tem 31 dias
-11	Novembro	tem 30 dias
-12	Dezembro	tem 31 dias
